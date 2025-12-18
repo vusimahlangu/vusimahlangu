@@ -3,7 +3,7 @@
 **South Africa's Community-Powered Career Platform (Beta)**
 
 🚀 **Live Beta Site:** [https://vusimahlangu.github.io](https://vusimahlangu.github.io)  
-📱 **Join our WhatsApp Community:** [https://chat.whatsapp.com/[YourActualLink](https://chat.whatsapp.com/KbLzjA2xZD7DEdQsQWIvJV)](https://chat.whatsapp.com/[YourActualLink](https://chat.whatsapp.com/KbLzjA2xZD7DEdQsQWIvJV))
+📱 **Join our WhatsApp Community:** [Click here to join](https://chat.whatsapp.com/KbLzjA2xZD7DEdQsQWIvJV)
 
 ## 🎯 Our Mission
 To connect South African professionals with meaningful opportunities through a transparent, community-driven platform—built for South Africans, by South Africans.
