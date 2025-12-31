@@ -6,7 +6,12 @@ const path = require("path");
 const sendgrid = require("@sendgrid/mail");
 
 const app = express();
-app.use(bodyParser.json());
+
+// Keep your existing code
+app.use(bodyParser.json()); 
+
+// ADD THIS LINE BELOW IT
+app.use(express.static('public')); 
 
 // Setup SendGrid if available
 if (process.env.SENDGRID_API_KEY) {
