@@ -1,0 +1,21 @@
+{
+  "name": "careerbridge-pro",
+  "version": "1.0.0",
+  "description": "CareerBridge Pro - simple job board (Express + Sequelize)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "NODE_ENV=development node app.js"
+  },
+  "author": "you",
+  "license": "MIT",
+  "dependencies": {
+    "@sendgrid/mail": "^8.0.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "pg": "^8.11.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.32.1",
+    "sqlite3": "^5.1.6"
+  }
+}
